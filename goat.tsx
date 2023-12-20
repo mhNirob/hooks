@@ -6,6 +6,8 @@ console.log("red");
 
 console.log("white");
 
+console.log("proxy");
+
 
 
 
